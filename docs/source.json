@@ -1,0 +1,7 @@
+{
+  "project": "POTIFY Public Treasury Record",
+  "kind": "New public reporting specification",
+  "source": "New public evidence format based on the existing POTIFY trust and treasury reporting work. A reference passing validation has the required shape; independent verification is a separate action.",
+  "scope": "This is a new reporting format. Custody, current balances, vesting and signer control have not been audited here.",
+  "prepared": "2026-11-25"
+}
