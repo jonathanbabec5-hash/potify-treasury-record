@@ -2,6 +2,14 @@
 
 [Complete repository directory tree](docs/DIRECTORY.md)
 
+## What ‘pending’ ought to look like
+
+A public record is sometimes most useful before it contains a number. The sample treasury statement leaves its slot and reference empty. That tells the reader exactly which evidence is missing and gives the next reviewer something concrete to check.
+
+The [synthetic record](examples/record.json) and the [validator](src/record.py) distinguish the shape of a report from the truth of a financial claim. Valid JSON cannot establish ownership, custody, a current balance or vesting. This repository supplies a reporting specification.
+
+Review the sample as written. Is ‘pending’ still unmistakable after rendering? Suggest a clearer label or a fixture that keeps an unsupported claim pending. Public contributions need no real balances, private addresses, signer details or treasury records.
+
 **New public reporting specification.** Help any reader verify a published treasury statement against a specific on-chain receipt.
 
 ### Setup and usage
