@@ -1,5 +1,13 @@
 # POTIFY Public Treasury Record
 
+## Find your way in
+
+| If you are… | Start here | Try this |
+| --- | --- | --- |
+| A reader | [Inspect the synthetic record](examples/record.json) | See which fields remain pending. |
+| A developer | [Read the validator](src/record.py) | Distinguish a valid report format from evidence of a real balance. |
+| A reviewer | [Explore the project tree](docs/DIRECTORY.md) | Propose a fixture that keeps unsupported claims pending. |
+
 [Complete repository directory tree](docs/DIRECTORY.md)
 
 ## What ‘pending’ ought to look like
